@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "./Card";
 import contacts from "../contacts";
+import Detail from "./Detail";
 
 function App() {
   return (
